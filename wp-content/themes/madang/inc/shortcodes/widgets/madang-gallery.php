@@ -1,0 +1,2 @@
+<?php 
+echo do_shortcode( '[madang_gallery title="'.$instance['title'].'" type="'.$instance['type'].'" text="'.$instance['text'].'" icon="'.$instance['icon'].'" class="'.$instance['class'].'" show_header="'.$instance['show_header'].'" category="'.$instance['category'].'" images_per_page="'.$instance['images_per_page'].'" ]' ); ?>

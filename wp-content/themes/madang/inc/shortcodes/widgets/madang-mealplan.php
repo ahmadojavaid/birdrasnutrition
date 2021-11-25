@@ -1,0 +1,1 @@
+<?php echo do_shortcode( '[madang_menu id="'.$instance['id'].'" tags="'.$instance['tags'].'" ]' );

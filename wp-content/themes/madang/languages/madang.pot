@@ -1,0 +1,2372 @@
+# Copyright (C) 2018 Kenzap
+# This file is distributed under the same license as the Madang package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Madang 1.6.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/madang\n"
+"POT-Creation-Date: 2018-03-01 03:57:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: category.php:18
+msgid "Search Results for category: %s"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:53
+msgid "← Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:54
+msgid "Newer Comments →"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:78 inc/shortcodes/madang-team.php:63
+msgid "Name"
+msgstr ""
+
+#: comments.php:84
+msgid "Email"
+msgstr ""
+
+#: comments.php:89
+msgid "Website"
+msgstr ""
+
+#: comments.php:96
+msgid "Comment"
+msgstr ""
+
+#: comments.php:98
+msgid "Write Comment"
+msgstr ""
+
+#: footer.php:23
+msgid "New Search..."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: header.php:71
+msgid "home"
+msgstr ""
+
+#: header.php:83
+msgid "Toggle navigation"
+msgstr ""
+
+#: header.php:116
+msgid "Item"
+msgstr ""
+
+#: header.php:116
+msgid "Items"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Footer Note"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Widget sidebar location"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Social Networks"
+msgstr ""
+
+#: inc/customizer.php:70 inc/shortcodes/madang-team.php:81
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:92 inc/shortcodes/madang-team.php:93
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Google"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:147 inc/shortcodes/madang-team.php:105
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Vkontakte"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Disqus"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Kenzap"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Override default theme fonts using Google library."
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Fonts demo"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Heading font family"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Menu font family"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Body font family"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Show comments on pages?"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Enable Cart"
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Choose plan link"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Choose plan text"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "SEO"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "This theme is already optimized to have good SEO rankings so we do not recommend to use any extra SEO plugins for this purpose. When you finished developing your website make sure Autoptimize and WP Super Cache plugins are enabled. This will ensure your website will have A grade performance."
+msgstr ""
+
+#: inc/customizer.php:302 inc/customizer.php:317
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Open Graph Protocol"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Enable open graph protocol for sharing."
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Image quality"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Reduced image size quality may significantly improve page loading speeds and thus affect SEO rankings."
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Header type"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:377
+msgid "Logo Desktop"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Logo Mobile"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Logo Footer"
+msgstr ""
+
+#: inc/customizer.php:459
+msgid "Theme Main Color"
+msgstr ""
+
+#: inc/customizer.php:477
+msgid "Theme Sub Color"
+msgstr ""
+
+#: inc/customizer.php:487
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Add custom CSS here"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "E-commerce"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "E-commerce, banner, units, products master settings."
+msgstr ""
+
+#: inc/customizer.php:508
+msgid "Products"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Configure product visual and styling settings."
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Support"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Cart, checkout banner and support page settings."
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Nutritions"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Basic nutrition settings."
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Disable nutrition calculations in cart and checkout pages."
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "Disable nutrition calculations in email."
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "Units postfix"
+msgstr ""
+
+#: inc/customizer.php:564
+msgid "When fats, proteins, carbohydrates are calculated you can add postfix like g or oz after each number."
+msgstr ""
+
+#: inc/customizer.php:573
+msgid "Calories postfix"
+msgstr ""
+
+#: inc/customizer.php:576
+msgid "When calories are calculated you can add postfix like kKal or J after each number."
+msgstr ""
+
+#: inc/customizer.php:586
+msgid "Number of products"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Default number of products per category in grid"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "Quick product preview"
+msgstr ""
+
+#: inc/customizer.php:602
+msgid "Open product preview in popup window instead of opening in new page."
+msgstr ""
+
+#: inc/customizer.php:613
+msgid "Help Banner"
+msgstr ""
+
+#: inc/customizer.php:616
+msgid "Enable or disable support help banner in cart"
+msgstr ""
+
+#: inc/customizer.php:625 inc/shortcodes/madang-banner.php:43
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer.php:628
+msgid "Banner title."
+msgstr ""
+
+#: inc/customizer.php:639 inc/shortcodes/madang-banner.php:53
+msgid "Banner Text"
+msgstr ""
+
+#: inc/customizer.php:642
+msgid "Banner call to action text."
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Banner Link"
+msgstr ""
+
+#: inc/customizer.php:656
+msgid "Link to support page on contacts."
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "Banner link text"
+msgstr ""
+
+#: inc/customizer.php:670
+msgid "Link text to support page on contacts."
+msgstr ""
+
+#: inc/customizer.php:681
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Minify JS and CSS"
+msgstr ""
+
+#: inc/customizer.php:704
+msgid "May significantly improve website performance and overall load times"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid "Google Maps API Key"
+msgstr ""
+
+#: inc/customizer.php:719
+msgid "Can be obtained here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: inc/extras.php:44
+msgid "year"
+msgstr ""
+
+#: inc/extras.php:45
+msgid "month"
+msgstr ""
+
+#: inc/extras.php:46
+msgid "week"
+msgstr ""
+
+#: inc/extras.php:47
+msgid "day"
+msgstr ""
+
+#: inc/extras.php:48
+msgid "hour"
+msgstr ""
+
+#: inc/extras.php:49
+msgid "minute"
+msgstr ""
+
+#: inc/extras.php:50
+msgid "second"
+msgstr ""
+
+#: inc/setup.php:57
+msgid "Main Menu"
+msgstr ""
+
+#: inc/setup.php:58
+msgid "Main Menu - Mobile"
+msgstr ""
+
+#: inc/setup.php:59
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/setup.php:82
+msgid "Sidebar"
+msgstr ""
+
+#: inc/setup.php:84
+msgid "Blog extension sidebar for core functionality"
+msgstr ""
+
+#: inc/setup.php:97
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/setup.php:199
+msgid "expand child menu"
+msgstr ""
+
+#: inc/setup.php:200
+msgid "Prev"
+msgstr ""
+
+#: inc/setup.php:201 inc/template-tags.php:94
+msgid "Next"
+msgstr ""
+
+#: inc/setup.php:202
+msgid "collapse child menu"
+msgstr ""
+
+#: inc/setup.php:204
+msgid "No records found"
+msgstr ""
+
+#: inc/setup.php:205
+msgid "Load more"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:24
+msgid "Madang About us"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:29
+msgid "Create About Us Section"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:42
+msgid "About us title"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:47
+msgid "About us text"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:52
+msgid "About us text right"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:57
+msgid "About us text left"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:62
+msgid "Choose first image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:63 inc/shortcodes/madang-aboutus.php:71
+#: inc/shortcodes/madang-aboutus.php:79 inc/shortcodes/madang-aboutus.php:87
+#: inc/shortcodes/madang-aboutus.php:95 inc/shortcodes/madang-app.php:59
+#: inc/shortcodes/madang-banner.php:74 inc/shortcodes/madang-partner.php:48
+#: inc/shortcodes/madang-partner.php:62 inc/shortcodes/madang-partner.php:76
+#: inc/shortcodes/madang-partner.php:90
+#: inc/shortcodes/madang-pricingtable.php:68
+#: inc/shortcodes/madang-programselect.php:70
+#: inc/shortcodes/madang-programselect.php:78
+#: inc/shortcodes/madang-samplemenu.php:90 inc/shortcodes/madang-slider.php:85
+#: inc/shortcodes/madang-story.php:100 inc/shortcodes/madang-team.php:74
+#: inc/shortcodes/madang-testimonial.php:63
+#: inc/shortcodes/madang-testimonial.php:86 inc/shortcodes/madang-video.php:50
+msgid "Choose image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:64 inc/shortcodes/madang-aboutus.php:72
+#: inc/shortcodes/madang-aboutus.php:80 inc/shortcodes/madang-aboutus.php:88
+#: inc/shortcodes/madang-aboutus.php:96 inc/shortcodes/madang-app.php:60
+#: inc/shortcodes/madang-banner.php:75 inc/shortcodes/madang-partner.php:49
+#: inc/shortcodes/madang-partner.php:63 inc/shortcodes/madang-partner.php:77
+#: inc/shortcodes/madang-partner.php:91
+#: inc/shortcodes/madang-pricingtable.php:69
+#: inc/shortcodes/madang-programselect.php:71
+#: inc/shortcodes/madang-programselect.php:79
+#: inc/shortcodes/madang-samplemenu.php:91 inc/shortcodes/madang-slider.php:86
+#: inc/shortcodes/madang-story.php:101 inc/shortcodes/madang-team.php:75
+#: inc/shortcodes/madang-testimonial.php:64
+#: inc/shortcodes/madang-testimonial.php:87 inc/shortcodes/madang-video.php:51
+msgid "Set image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:70
+msgid "Choose second image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:78
+msgid "Choose third image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:86
+msgid "Choose fourth image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:94
+msgid "Choose fifth image"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:102 inc/shortcodes/madang-banner.php:81
+#: inc/shortcodes/madang-cta.php:47
+msgid "Button Link"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:103
+msgid "Button url"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:108 inc/shortcodes/madang-banner.php:87
+#: inc/shortcodes/madang-cta.php:53
+msgid "Button Text"
+msgstr ""
+
+#: inc/shortcodes/madang-aboutus.php:109
+msgid "Button CTA text"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:25
+msgid "Madang App"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:30
+msgid "Create App Section"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:43 inc/shortcodes/madang-blog.php:43
+#: inc/shortcodes/madang-contact-form.php:44 inc/shortcodes/madang-cta.php:42
+#: inc/shortcodes/madang-feature.php:60 inc/shortcodes/madang-howitworks.php:43
+#: inc/shortcodes/madang-info.php:43 inc/shortcodes/madang-nutrition.php:49
+#: inc/shortcodes/madang-pricingtable.php:43
+#: inc/shortcodes/madang-productcategories.php:42
+#: inc/shortcodes/madang-products.php:45
+#: inc/shortcodes/madang-programinfo.php:43
+#: inc/shortcodes/madang-programselect.php:43
+#: inc/shortcodes/madang-samplemenu.php:43
+#: inc/shortcodes/madang-samplemenu.php:73 inc/shortcodes/madang-slider.php:58
+#: inc/shortcodes/madang-story.php:54 inc/shortcodes/madang-team.php:43
+#: inc/shortcodes/madang-testimonial.php:52
+#: inc/shortcodes/madang-testimonial.php:93 inc/shortcodes/madang-video.php:44
+msgid "Title"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:48 inc/shortcodes/madang-pricingtable.php:48
+#: inc/shortcodes/madang-programselect.php:48
+#: inc/shortcodes/madang-slider.php:68 inc/shortcodes/madang-story.php:59
+msgid "Subtitle"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:53 inc/shortcodes/madang-feature.php:44
+#: inc/shortcodes/madang-feature.php:65 inc/shortcodes/madang-gallery.php:63
+#: inc/shortcodes/madang-nutrition.php:44
+#: inc/shortcodes/madang-programinfo.php:48
+#: inc/shortcodes/madang-samplemenu.php:48
+#: inc/shortcodes/madang-samplemenu.php:78 inc/shortcodes/madang-slider.php:63
+#: inc/shortcodes/madang-story.php:64 inc/shortcodes/madang-team.php:48
+#: inc/shortcodes/madang-testimonial.php:57
+#: inc/shortcodes/madang-testimonial.php:99
+msgid "Text"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:58
+msgid "Choose app image"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:66
+msgid "App Store Link"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:72
+msgid "App Store icon"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:73 inc/shortcodes/madang-app.php:85
+msgid "Go to you themes root folder > images"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:78
+msgid "Play Market Link"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:84
+msgid "Play Market icon"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:90 inc/shortcodes/madang-banner.php:93
+#: inc/shortcodes/madang-blog.php:67 inc/shortcodes/madang-pricingtable.php:75
+msgid "Extra Class"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:91
+msgid "Extra style class to apply to app"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:155
+msgid "App store"
+msgstr ""
+
+#: inc/shortcodes/madang-app.php:156
+msgid "Google Play"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:25
+msgid "Madang Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:30
+msgid "Create Different Banners"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:48
+msgid "Banner Subtitle"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:58
+msgid "Choose banner type from selection below"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:61
+msgid "Simple Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:62
+msgid "Parallax Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:63
+msgid "About us Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:64
+msgid "Product Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:65
+msgid "Menu Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:66
+msgid "Support Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:67
+msgid "Special Deals Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:68
+msgid "Youtube Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:73 inc/shortcodes/madang-samplemenu.php:89
+msgid "Choose banner image"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:82 inc/shortcodes/madang-banner.php:88
+msgid "May not apply to all banner types"
+msgstr ""
+
+#: inc/shortcodes/madang-banner.php:94
+msgid "Extra style class to apply to banner"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:25
+msgid "Madang Blog"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:30
+msgid "Create Blog Section"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:48 inc/shortcodes/madang-gallery.php:57
+#: inc/shortcodes/madang-products.php:55 inc/shortcodes/madang-promo.php:43
+msgid "Category"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:53
+#: inc/shortcodes/madang-productcategories.php:58
+#: inc/shortcodes/madang-products.php:61
+msgid "Records per page"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:58
+msgid "Choose blog type from selection below"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:61 inc/shortcodes/madang-gallery.php:86
+msgid "Minified"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:62 inc/shortcodes/madang-gallery.php:84
+#: inc/shortcodes/madang-pricingtable.php:60
+#: inc/shortcodes/madang-testimonial.php:46
+msgid "Normal"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:68
+msgid "Extra style class to apply to the blog"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:209 template-parts/content-blog-index.php:29
+#: template-parts/content-blog.php:36
+msgid "no comments"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:209 template-parts/content-blog-index.php:29
+#: template-parts/content-blog.php:36
+msgid "one comment"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:209 template-parts/content-blog-index.php:29
+#: template-parts/content-blog.php:36
+msgid "comments"
+msgstr ""
+
+#: inc/shortcodes/madang-blog.php:210
+msgid "read more"
+msgstr ""
+
+#: inc/shortcodes/madang-contact-form.php:26
+msgid "Madang Contact Form 7"
+msgstr ""
+
+#: inc/shortcodes/madang-contact-form.php:31
+msgid "Create Contact Form Section"
+msgstr ""
+
+#: inc/shortcodes/madang-contact-form.php:49
+#: inc/shortcodes/madang-newsletter.php:64
+msgid "Form ID"
+msgstr ""
+
+#: inc/shortcodes/madang-contact-form.php:50
+msgid "Go to Contact > Contact Forms to get the id of your form"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:23
+msgid "Madang Contacts"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:28
+msgid "Display contacts block with map and form"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:41
+msgid "Contacts Title"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:46
+msgid "Subtitle left"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:51
+msgid "Subtitle right"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:56
+msgid "Some text"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:61
+msgid "Enable/disable map container"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:62
+msgid "Important! If enabled you need to register Google Maps API KEY and save it under Customizer > Advanced > Google Map option."
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:66
+msgid "Map latitude"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:67 inc/shortcodes/madang-contact.php:73
+#: inc/shortcodes/madang-contact.php:79 inc/shortcodes/madang-contact.php:88
+#: inc/shortcodes/madang-contact.php:98 inc/shortcodes/madang-contact.php:104
+#: inc/shortcodes/madang-contact.php:114
+msgid "Important! You have to clear browsing cache after making changes here"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:72
+msgid "Map longitude"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:78
+msgid "Map zoom level"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:87
+msgid "Map hue/color"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:97
+msgid "Map saturation/brightness level"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:103
+msgid "Map pointer type"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:107
+msgid "Balloon"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:108
+msgid "Pointer"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:113
+msgid "Map balloon text"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:119
+msgid "Icon Row One"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:124
+msgid "Icon Row Two"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:129
+msgid "Contact form ID"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:134
+msgid "Email address"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:139
+msgid "Phone number to call"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:140
+msgid "Should be a well formatted phone number with country code."
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:145
+msgid "Phone number to display"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:150
+msgid "Address text"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:155
+msgid "Button text 1"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:160
+msgid "Button link 1"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:165
+msgid "Button text 2"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:170
+msgid "Button link 2"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:258
+msgid "tel"
+msgstr ""
+
+#: inc/shortcodes/madang-contact.php:262
+msgid "email"
+msgstr ""
+
+#: inc/shortcodes/madang-contact_old.php:45
+msgid "TEL :"
+msgstr ""
+
+#: inc/shortcodes/madang-contact_old.php:49
+msgid "Contact us form"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:26
+msgid "Madang Counters"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:31
+msgid "Create Counters Section"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:44
+msgid "Title 1"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:49
+msgid "Counter value 1"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:54
+msgid "Title 2"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:59
+msgid "Counter value 2"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:64
+msgid "Title 3"
+msgstr ""
+
+#: inc/shortcodes/madang-counters.php:69
+msgid "Counter value 3"
+msgstr ""
+
+#: inc/shortcodes/madang-cta.php:24
+msgid "Madang CTA"
+msgstr ""
+
+#: inc/shortcodes/madang-cta.php:29
+msgid "Create CTA Section"
+msgstr ""
+
+#: inc/shortcodes/madang-faq.php:25
+msgid "Madang FAQ"
+msgstr ""
+
+#: inc/shortcodes/madang-faq.php:30
+msgid "Create Frequently Asked Questions Section"
+msgstr ""
+
+#: inc/shortcodes/madang-faq.php:43
+msgid "FAQ Title"
+msgstr ""
+
+#: inc/shortcodes/madang-faq.php:44
+msgid "Go to Faq section > Add New to create your questions and anwsers"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:25
+msgid "Madang Feature"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:30
+msgid "Create Feature Section"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:50
+msgid "Add feature record"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:51
+msgid "Click here to setup feature record"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:70 inc/shortcodes/madang-gallery.php:69
+#: inc/shortcodes/madang-programinfo.php:53
+msgid "Icon"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:71
+msgid "Icons are located in in your themes root folder > images"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:76 inc/shortcodes/madang-newsletter.php:58
+#: inc/shortcodes/madang-programselect.php:58
+#: inc/shortcodes/madang-programselect.php:63
+#: inc/shortcodes/madang-slider.php:92 inc/shortcodes/madang-story.php:89
+msgid "Button text"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:81 inc/shortcodes/madang-slider.php:97
+#: inc/shortcodes/madang-story.php:94
+msgid "Button link"
+msgstr ""
+
+#: inc/shortcodes/madang-feature.php:86
+#: inc/shortcodes/madang-pricingtable.php:238
+#: inc/shortcodes/madang-programinfo.php:79
+#: inc/shortcodes/madang-samplemenu.php:97 inc/shortcodes/madang-slider.php:102
+#: inc/shortcodes/madang-story.php:107 inc/shortcodes/madang-team.php:111
+#: inc/shortcodes/madang-testimonial.php:104
+msgid "Temporary hide this record"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:24
+msgid "Madang Gallery"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:29
+msgid "Create Gallery Signup Section"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:42
+msgid "Gallery title "
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:43
+msgid "Go to Gallery > Add New section to add new gallery items"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:48
+msgid "Show header"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:52
+msgid "Max images to query"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:58
+msgid "Restrict gallery to certain category"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:75
+msgid "Class"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:81
+msgid "Choose gallery type"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:85
+msgid "Carousel"
+msgstr ""
+
+#: inc/shortcodes/madang-gallery.php:87
+msgid "Menu"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:25
+msgid "Madang How It Works"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:30
+msgid "Create How It Works Section"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:48 inc/shortcodes/madang-info.php:48
+msgid "Item subtitle 1"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:53 inc/shortcodes/madang-info.php:53
+msgid "Item text 1"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:59 inc/shortcodes/madang-info.php:68
+msgid "Item subtitle 2"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:64 inc/shortcodes/madang-info.php:73
+msgid "Item text 2"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:70 inc/shortcodes/madang-info.php:88
+msgid "Item subtitle 3"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:75 inc/shortcodes/madang-info.php:93
+msgid "Item text 3"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:81
+msgid "Item subtitle 4"
+msgstr ""
+
+#: inc/shortcodes/madang-howitworks.php:86
+msgid "Item text 4"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:25
+msgid "Madang Info"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:30
+msgid "Create Brief Info Section"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:58
+msgid "Item icon 1"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:59 inc/shortcodes/madang-info.php:79
+#: inc/shortcodes/madang-info.php:99
+msgid "Icons are stored in your themes root folder > images"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:63
+msgid "Item link 1"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:78
+msgid "Item icon 2"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:83
+msgid "Item link 2"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:98
+msgid "Item icon 3"
+msgstr ""
+
+#: inc/shortcodes/madang-info.php:103
+msgid "Item link 3"
+msgstr ""
+
+#: inc/shortcodes/madang-maincontent.php:25
+msgid "Madang Main Content Start"
+msgstr ""
+
+#: inc/shortcodes/madang-maincontent.php:30
+msgid "Provides smooth scroll effect with top banner overflow"
+msgstr ""
+
+#: inc/shortcodes/madang-maincontent.php:43
+msgid "Temporary hide effect of this record"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:25
+msgid "Madang Meal Plan"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:30
+msgid "Create mealplan Signup Section"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:43
+msgid "Meal Plan ID"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:44
+msgid "Go to Programs > Programs section and pick id from program list"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:49
+msgid "Choose tag behaviour"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:52
+msgid "Hide tags"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:53
+msgid "Show tags"
+msgstr ""
+
+#: inc/shortcodes/madang-mealplan.php:54
+msgid "Show tags and make them clickable"
+msgstr ""
+
+#: inc/shortcodes/madang-newsletter.php:25
+msgid "Madang Newsletter"
+msgstr ""
+
+#: inc/shortcodes/madang-newsletter.php:30
+msgid "Create Newsletter Signup Section"
+msgstr ""
+
+#: inc/shortcodes/madang-newsletter.php:43
+msgid "Newsletter title"
+msgstr ""
+
+#: inc/shortcodes/madang-newsletter.php:48
+msgid "Newsletter subtitle"
+msgstr ""
+
+#: inc/shortcodes/madang-newsletter.php:53
+msgid "Newsletter text"
+msgstr ""
+
+#: inc/shortcodes/madang-newsletter.php:65
+msgid "Go to Mailchimp for WP > Forms to find your form id"
+msgstr ""
+
+#: inc/shortcodes/madang-nutrition.php:25
+msgid "Madang Nutrition Table"
+msgstr ""
+
+#: inc/shortcodes/madang-nutrition.php:30
+msgid "Create Nutrition Table Section"
+msgstr ""
+
+#: inc/shortcodes/madang-nutrition.php:54
+msgid "Ingredients"
+msgstr ""
+
+#: inc/shortcodes/madang-nutrition.php:55
+msgid "Provide list of ingredients. Separate ingredients by \",\""
+msgstr ""
+
+#: inc/shortcodes/madang-nutrition.php:60
+msgid "Table ID"
+msgstr ""
+
+#: inc/shortcodes/madang-nutrition.php:61
+msgid "Go to Nutrition section to find table id from the list"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:24
+msgid "Madang Partner"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:29
+msgid "Create Partner Section"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:42
+msgid "Partner 1 title"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:47
+msgid "Choose 1 image"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:56
+msgid "Partner 2 title"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:61
+msgid "Choose 2 image"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:70
+msgid "Partner 3 title"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:75
+msgid "Choose 3 image"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:84
+msgid "Partner 4 title"
+msgstr ""
+
+#: inc/shortcodes/madang-partner.php:89
+msgid "Choose 4 image"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:25
+msgid "Madang Pricing Table"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:30
+msgid "Create Different Style Pricing Tables"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:53
+msgid "Show title and select field"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:57
+msgid "Choose pricing table group type from selection below"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:61
+msgid "Banner"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:66
+#: inc/shortcodes/madang-programselect.php:77
+#: inc/shortcodes/madang-testimonial.php:62 inc/shortcodes/madang-video.php:49
+msgid "Choose background image"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:67
+msgid "Only applicable to banner pricing table group"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:76
+msgid "Extra style class to apply to pricingtable"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:81
+msgid "Add table group record"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:82
+#: inc/shortcodes/madang-programinfo.php:60
+msgid "Click here to setup table group"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:91
+msgid "Table group title"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:92
+msgid "Note: this field is required for select filter"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:97
+msgid "Table 1 title"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:102
+#: inc/shortcodes/madang-pricingtable.php:148
+#: inc/shortcodes/madang-pricingtable.php:194
+#: inc/shortcodes/madang-pricingtable.php:233
+msgid "Make this table featuring"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:106
+msgid "Table 1 price"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:111
+msgid "Table 1 price period"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:116
+msgid "Table 1 text upper"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:121
+msgid "Table 1 text middle"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:126
+msgid "Table 1 text bottom"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:131
+msgid "Table 1 button text"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:136
+msgid "Table 1 button link"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:143
+msgid "Table 2 title"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:152
+msgid "Table 2 price"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:157
+msgid "Table 2 price period"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:162
+#: inc/shortcodes/madang-pricingtable.php:208
+msgid "Table 2 text upper"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:167
+msgid "Table 2 text middle"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:172
+msgid "Table 2 text bottom"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:177
+msgid "Table 2 button text"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:182
+msgid "Table 2 button link"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:189
+msgid "Table 3 title"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:198
+msgid "Table 3 price"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:203
+msgid "Table 3 price period"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:213
+msgid "Table 3 text middle"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:218
+msgid "Table 3 text bottom"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:223
+msgid "Table 3 button text"
+msgstr ""
+
+#: inc/shortcodes/madang-pricingtable.php:228
+msgid "Table 3 button link"
+msgstr ""
+
+#: inc/shortcodes/madang-productcategories.php:24
+msgid "Madang Categories"
+msgstr ""
+
+#: inc/shortcodes/madang-productcategories.php:29
+msgid "Create product category listing"
+msgstr ""
+
+#: inc/shortcodes/madang-productcategories.php:52
+msgid "Categories"
+msgstr ""
+
+#: inc/shortcodes/madang-productcategories.php:53
+msgid "Manually select categories. Separate by \",\""
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:27
+msgid "Madang Products"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:32
+msgid "Create Different productss"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:50
+msgid "Show toolbar"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:56
+msgid "Restrict product listings to certain category"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:66
+msgid "Choose default sorting"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:69
+msgid "None"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:70 inc/shortcodes/madang-products.php:233
+#: inc/shortcodes/madang-products.php:915
+#: inc/shortcodes/madang-products.php:997
+msgid "Popularity"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:71 inc/shortcodes/madang-products.php:234
+#: inc/shortcodes/madang-products.php:918
+#: inc/shortcodes/madang-products.php:1000
+msgid "Rating"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:72 inc/shortcodes/madang-products.php:235
+#: inc/shortcodes/madang-products.php:921
+#: inc/shortcodes/madang-products.php:1003
+msgid "Newest"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:73
+msgid "Lowest price"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:74
+msgid "Highest price"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:75 inc/shortcodes/madang-products.php:238
+msgid "Alphabetically"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:80
+msgid "Remember selections"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:81
+msgid "Remember user selections even if the page is refreshed but resets \"Choose default sorting\" option."
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:86
+msgid "Choose sidebar"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:87
+msgid "Select which sidebar to use. You can change siderbar position from left to right under in Customizer > Advanced > Widget sidebar location"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:90
+msgid "E-commerce Sidebar 1"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:91
+msgid "E-commerce Sidebar 2"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:92
+msgid "E-commerce Sidebar 3"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:98
+msgid "Choose product listing type"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:101
+msgid "Shop"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:109
+msgid "Listing style"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:112
+msgid "Grid"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:113
+msgid "List"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:118
+msgid "Pagination/load more"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:119
+msgid "When product list/grid ends choose load more products variant. Note, all requests are based on Ajax except when in pagination mode."
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:122
+msgid "Nothing"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:123
+msgid "Pagination buttons"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:230
+msgid "Sort By:"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:232
+#: inc/shortcodes/madang-products.php:912
+#: inc/shortcodes/madang-products.php:994
+msgid "Default"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:236
+msgid "Lowest Price"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:237
+msgid "Highest Price"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:243
+msgid "Display:"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:412
+#: inc/shortcodes/madang-products.php:522 template-parts/ajax-products.php:90
+#: template-parts/ajax-products.php:445 template-parts/ajax-products.php:551
+#: woocommerce/cart/cart-totals.php:58 woocommerce/cart/cart.php:145
+msgid "Calories"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:418
+#: inc/shortcodes/madang-products.php:528 template-parts/ajax-products.php:96
+#: template-parts/ajax-products.php:451 template-parts/ajax-products.php:557
+#: woocommerce/cart/cart-totals.php:62 woocommerce/cart/cart.php:151
+msgid "Proteins"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:424
+#: inc/shortcodes/madang-products.php:534 template-parts/ajax-products.php:102
+#: template-parts/ajax-products.php:457 template-parts/ajax-products.php:563
+#: woocommerce/cart/cart-totals.php:66 woocommerce/cart/cart.php:157
+msgid "Fats"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:430
+#: inc/shortcodes/madang-products.php:540 template-parts/ajax-products.php:108
+#: template-parts/ajax-products.php:463 template-parts/ajax-products.php:569
+#: woocommerce/cart/cart-totals.php:70 woocommerce/cart/cart.php:163
+msgid "Carbohydrates"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:623
+#: inc/shortcodes/madang-products.php:689
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:806
+msgid "Filter"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:828
+#: inc/shortcodes/madang-products.php:854
+msgid "Size"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:834
+#: inc/shortcodes/madang-products.php:878
+msgid "Color"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:839
+#: inc/shortcodes/madang-products.php:900 woocommerce/cart/cart.php:63
+#: woocommerce/cart/cart.php:183
+msgid "Price"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:845
+msgid "Sort By"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:909
+msgid "Sort"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:924
+#: inc/shortcodes/madang-products.php:1006
+msgid "Price: Low to High"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:927
+#: inc/shortcodes/madang-products.php:1009
+msgid "Price: High to Low"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:1034
+#: inc/shortcodes/madang-products.php:1059 template-parts/ajax-products.php:256
+msgid "Already in wishlist"
+msgstr ""
+
+#: inc/shortcodes/madang-products.php:1038
+#: inc/shortcodes/madang-products.php:1063 template-parts/ajax-products.php:260
+msgid "Add to wishlist"
+msgstr ""
+
+#: inc/shortcodes/madang-program.php:243
+msgid "Program Search Results for"
+msgstr ""
+
+#: inc/shortcodes/madang-programinfo.php:25
+msgid "Madang Program Info Widget"
+msgstr ""
+
+#: inc/shortcodes/madang-programinfo.php:30
+msgid "Create Nutrition Program Features and Description Section"
+msgstr ""
+
+#: inc/shortcodes/madang-programinfo.php:54
+#: inc/shortcodes/madang-programselect.php:87
+#: inc/shortcodes/madang-programselect.php:107
+#: inc/shortcodes/madang-programselect.php:127
+msgid "Go to themes root folder > images to find another icon"
+msgstr ""
+
+#: inc/shortcodes/madang-programinfo.php:59
+msgid "Add program feature record"
+msgstr ""
+
+#: inc/shortcodes/madang-programinfo.php:69
+msgid "Feature name"
+msgstr ""
+
+#: inc/shortcodes/madang-programinfo.php:74
+msgid "Feature text"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:25
+msgid "Madang Program Finder"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:30
+msgid "Create Powerfull Nutrition Program Search Section"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:53
+#: inc/shortcodes/madang-slider.php:43
+msgid "Extra class"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:64
+msgid "Link to a page that contains program search shortcode"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:69
+msgid "Choose front image"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:86
+msgid "First select field icon"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:92
+msgid "First select field category list"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:93
+#: inc/shortcodes/madang-programselect.php:113
+#: inc/shortcodes/madang-programselect.php:133
+msgid "Go to Programs > Categories section to find available category slugs. Separate values by \",\""
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:98
+msgid "First select field title"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:99
+#: inc/shortcodes/madang-programselect.php:119
+#: inc/shortcodes/madang-programselect.php:139
+msgid "Separate values by \",\""
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:106
+msgid "Second select field icon"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:112
+msgid "Second select field category list"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:118
+msgid "Second select field title"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:126
+msgid "Third select field icon"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:132
+msgid "Third select field category list"
+msgstr ""
+
+#: inc/shortcodes/madang-programselect.php:138
+msgid "Third select field title"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:25
+msgid "Madang Promotion"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:30
+msgid "Create Promotion Landing Page"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:44
+msgid "Go to Promo > Add New to create new sales listing"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:257
+msgid "promo expired"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:261
+msgid " day left"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:263
+msgid " days left"
+msgstr ""
+
+#: inc/shortcodes/madang-promo.php:273
+msgid "Expired"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:25
+msgid "Madang Sample Menu"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:30
+msgid "Create Sample Menu Section"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:53
+msgid "Default action"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:56
+msgid "Open link"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:57
+msgid "Enlarge image"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:63
+msgid "Add new record here"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:64
+msgid "Click here to setup record"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:83
+msgid "Link"
+msgstr ""
+
+#: inc/shortcodes/madang-samplemenu.php:84
+msgid "Link will only work if action \"Open link\" above is selected"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:25
+msgid "Madang Slider"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:30
+msgid "Create Different Sliders"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:48
+msgid "Add slider record"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:49
+msgid "Click here to setup slider"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:74
+msgid "Choose text location"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:77
+msgid "Text left"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:78
+msgid "Text center"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:79
+msgid "Text right"
+msgstr ""
+
+#: inc/shortcodes/madang-slider.php:84
+msgid "Choose slider image"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:25
+msgid "Madang Story"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:30
+msgid "Create Success Story Section"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:44
+msgid "Add success story record"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:45
+msgid "Click here to setup story record"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:69
+msgid "Before note"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:74
+msgid "Before note postfix"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:79
+msgid "After note"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:84
+msgid "After note postfix"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:99
+msgid "Choose member avatar"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:191
+msgid "Before:"
+msgstr ""
+
+#: inc/shortcodes/madang-story.php:197
+msgid "After:"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:25
+msgid "Madang Team"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:30
+msgid "Create Team Section"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:53
+msgid "Add team member"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:54
+msgid "Click here to setup team member"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:68
+msgid "Position"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:73
+msgid "Choose member image"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:87
+msgid "Google plus"
+msgstr ""
+
+#: inc/shortcodes/madang-team.php:99
+msgid "Linkedin"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:25
+msgid "Madang Testimonial"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:30
+msgid "Create Different testimonials"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:43
+msgid "Choose testimonial type from selection below"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:47
+msgid "Compact"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:70
+msgid "Add testimonials record"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:71
+msgid "Click here to setup testimonials record"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:80
+msgid "Author"
+msgstr ""
+
+#: inc/shortcodes/madang-testimonial.php:85
+msgid "Choose author image"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:26
+msgid "Madang Video"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:31
+msgid "Create Video Preview Section"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:57
+msgid "Choose playback video"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:58
+msgid "Choose video"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:59
+msgid "Set video"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:66
+msgid "External link"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:67
+msgid "Override video with external link like youtube. Ex.: https://www.youtube.com/embed/rmGLw6OPTZ4?autoplay=1"
+msgstr ""
+
+#: inc/shortcodes/madang-video.php:116
+msgid "Your browser doesn't support HTML5 video. Link to download the video:"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:47 inc/template-tags.php:53
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:62
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: inc/template-tags.php:69 template-parts/content-page.php:30
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:85 inc/template-tags.php:117 inc/template-tags.php:147
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:195
+msgid "Previous Story"
+msgstr ""
+
+#: inc/template-tags.php:200
+msgid "Next Story"
+msgstr ""
+
+#: inc/template-tags.php:225
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:225 inc/template-tags.php:250
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:240
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:247
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:281
+msgid "SHARE THIS STORY"
+msgstr ""
+
+#: inc/template-tags.php:283
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/template-tags.php:284
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/template-tags.php:285
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/template-tags.php:349
+msgid "BUY PRODUCT"
+msgstr ""
+
+#: inc/template-tags.php:353
+msgid "VIEW PRODUCTS"
+msgstr ""
+
+#: inc/template-tags.php:357
+msgid "ADD TO CART"
+msgstr ""
+
+#: inc/template-tags.php:362
+msgid "SELECT OPTIONS"
+msgstr ""
+
+#: inc/template-tags.php:366
+msgid "READ MORE"
+msgstr ""
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "New search"
+msgstr ""
+
+#: tag.php:18
+msgid "Search Results for tag: %s"
+msgstr ""
+
+#: template-parts/ajax-products.php:73
+msgid "INGREDIENTS"
+msgstr ""
+
+#: template-parts/ajax-products.php:84
+msgid "NUTRITION FACTS"
+msgstr ""
+
+#. translators: %s: Name of current post.
+
+#: template-parts/content-blog-fullwidth.php:39
+#: template-parts/content-blog-index.php:41 template-parts/content-blog.php:64
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-blog-fullwidth.php:44
+#: template-parts/content-blog-index.php:49 template-parts/content-blog.php:72
+#: template-parts/content-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-blog.php:43 template-parts/content-blog.php:51
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: template-parts/content-blog.php:46
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: template-parts/content-blog.php:54
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21 template-parts/content-refresh.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25 template-parts/content-refresh.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31 template-parts/content-refresh.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-program-search.php:20
+#: template-parts/content-search.php:18 template-parts/content-tag.php:18
+msgid "By:"
+msgstr ""
+
+#: template-parts/content-program-search.php:22
+#: template-parts/content-search.php:20 template-parts/content-tag.php:20
+msgid "Category:"
+msgstr ""
+
+#: template-parts/content-program-search.php:24
+#: template-parts/content-search.php:22 template-parts/content-tag.php:22
+msgid "Comments"
+msgstr ""
+
+#: template-parts/content-refresh.php:14
+msgid "Theme settings are refreshed"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:53
+msgid "Nutrition Facts Calculated"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:101
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:106 woocommerce/cart/cart-totals.php:107
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:128 woocommerce/cart/cart-totals.php:129
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:144
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:165 woocommerce/cart/cart-totals.php:166
+#: woocommerce/cart/cart.php:65 woocommerce/cart/cart.php:206
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/checkout/form-checkout.php:35
+#: woocommerce/checkout/thankyou.php:34
+msgid "Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/checkout/form-checkout.php:36
+#: woocommerce/checkout/thankyou.php:35
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/checkout/form-checkout.php:37
+#: woocommerce/checkout/thankyou.php:36
+msgid "Order Complete"
+msgstr ""
+
+#: woocommerce/cart/cart.php:62 woocommerce/cart/cart.php:113
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:64 woocommerce/cart/cart.php:189
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:89
+msgid "Action"
+msgstr ""
+
+#: woocommerce/cart/cart.php:94
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:177
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:224
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:224
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:224
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:230
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:83
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:57
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:65 woocommerce/checkout/thankyou.php:102
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:75
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:80
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:87
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:28
+msgid "Hi there. Your recent order on %s has been completed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:50
+#: woocommerce/emails/customer-on-hold-order.php:50
+#: woocommerce/emails/customer-processing-order.php:50
+msgid "Nutrition Facts"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:52
+#: woocommerce/emails/customer-on-hold-order.php:52
+#: woocommerce/emails/customer-processing-order.php:52
+msgid "Calories:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:53
+#: woocommerce/emails/customer-on-hold-order.php:53
+#: woocommerce/emails/customer-processing-order.php:53
+msgid "Proteins:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-on-hold-order.php:54
+#: woocommerce/emails/customer-processing-order.php:54
+msgid "Fats:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:55
+#: woocommerce/emails/customer-on-hold-order.php:55
+#: woocommerce/emails/customer-processing-order.php:55
+msgid "Carbohydrates:"
+msgstr ""
+
+#: woocommerce/emails/customer-on-hold-order.php:28
+#: woocommerce/emails/plain/customer-on-hold-order.php:25
+msgid "Your order is on-hold until we confirm payment has been received. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:28
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:53
+msgid "Awaiting product image"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Madang"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://madang.kenzap.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Madang - Healthy Food Delivery WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kenzap"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kenzap.com"
+msgstr ""

@@ -1,0 +1,2 @@
+<?php 
+echo do_shortcode( '[madang_newsletter form_id="'.$instance['id'].'" title="'.$instance['title'].'" subtitle="'.$instance['subtitle'].'"  placeholder="'.$instance['placeholder'].'" button_text="'.$instance['button_text'].'"  ]' ); ?>

@@ -1,0 +1,2 @@
+<?php 
+echo do_shortcode( '[madang_counters title1="'.$instance['title1'].'" count1="'.$instance['count1'].'" title2="'.$instance['title2'].'" count2="'.$instance['count2'].'" title3="'.$instance['title3'].'" count3="'.$instance['count3'].'" ]' ); ?>

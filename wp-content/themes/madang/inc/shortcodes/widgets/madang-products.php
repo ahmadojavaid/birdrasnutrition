@@ -1,0 +1,2 @@
+<?php 
+echo do_shortcode( '[madang_products type="'.$instance['type'].'" list_style="'.$instance['list_style'].'" category="'.$instance['category'].'" per_page="'.$instance['per_page'].'" show_header="'.$instance['show_header'].'" orderby="'.$instance['orderby'].'" title="'.$instance['title'].'" widget="'.$instance['widget'].'" remember="'.$instance['remember'].'" pagination="'.$instance['pagination'].'" ]' ); ?>

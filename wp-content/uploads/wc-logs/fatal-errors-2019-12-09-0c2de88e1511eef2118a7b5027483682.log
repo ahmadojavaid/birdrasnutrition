@@ -1,0 +1,63 @@
+2019-12-09T07:19:16+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_screen_ids() in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php:1496
+Stack trace:
+#0 C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php(1468): WC_Helper::_prompt_helper_connect('appearance_page...')
+#1 C:\laragon\www\madang\wp-includes\class-wp-hook.php(286): WC_Helper::admin_notices('')
+#2 C:\laragon\www\madang\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\laragon\www\madang\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\laragon\www\madang\wp-admin\admin-header.php(281): do_action('admin_notices')
+#5 C:\laragon\www\madang\wp-admin\admin.php(233): require_once('C:\\laragon\\www\\...')
+#6 C:\laragon\www\madang\wp-admin\themes.php(10): require_once('C:\\laragon\\www\\...')
+#7 {main}
+  thrown in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php on line 1496
+
+2019-12-09T07:37:08+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:37:12+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:37:13+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:37:31+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:37:33+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:37:33+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:38:49+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_screen_ids() in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php:163
+Stack trace:
+#0 C:\laragon\www\madang\wp-includes\class-wp-hook.php(286): WC_Admin_Notices::add_notices('')
+#1 C:\laragon\www\madang\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\madang\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\laragon\www\madang\wp-admin\admin-header.php(118): do_action('admin_print_sty...')
+#4 C:\laragon\www\madang\wp-admin\plugins.php(479): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 163
+
+2019-12-09T07:39:57+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:39:59+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:39:59+00:00 CRITICAL Cannot redeclare madang_register_required_plugins() (previously declared in C:\laragon\www\madang\wp-content\themes\madang\inc\classes\plugins.php:18) in C:\laragon\www\madang\wp-content\plugins\madang-plugin\custom\plugins.php on line 184
+
+2019-12-09T07:41:21+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_screen_ids() in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php:163
+Stack trace:
+#0 C:\laragon\www\madang\wp-includes\class-wp-hook.php(286): WC_Admin_Notices::add_notices('')
+#1 C:\laragon\www\madang\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\madang\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\laragon\www\madang\wp-admin\admin-header.php(118): do_action('admin_print_sty...')
+#4 C:\laragon\www\madang\wp-admin\plugins.php(479): require_once('C:\\laragon\\www\\...')
+#5 {main}
+  thrown in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 163
+
+2019-12-09T07:45:48+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_screen_ids() in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php:163
+Stack trace:
+#0 C:\laragon\www\madang\wp-includes\class-wp-hook.php(286): WC_Admin_Notices::add_notices('')
+#1 C:\laragon\www\madang\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\madang\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\laragon\www\madang\wp-admin\admin-header.php(118): do_action('admin_print_sty...')
+#4 C:\laragon\www\madang\wp-admin\admin.php(233): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\madang\wp-admin\options-general.php(10): require_once('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\madang\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 163
+
+2019-12-09T08:02:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\laragon\www\madang\wp-includes\Requests\Transport\cURL.php on line 441
+
